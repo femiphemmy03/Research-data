@@ -1,6 +1,6 @@
-# Research-data
+# **Research-data**
 A basic python code for creating research data responses.
-# **Research Data Responses**
+# *Research Data Responses*
 This repository contains Python code and research data files for a study analyzed using SPSS.
 ## **Purpose**
 This repository provides a collection of research data responses and analysis files for a study. The Python code generates responses, while the data files provide the results of the analysis.
